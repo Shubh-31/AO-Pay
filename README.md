@@ -1,6 +1,6 @@
 # AO Pay Website
 
-AO Pay is a fintech website developed for a client using **Next.js** and **TypeScript**.  
+AO Pay is a fintech website developed for a client using **Next.js** and **JavaScript**.  
 The project is actively maintained, with ongoing enhancements and support.
 
 ---
@@ -8,7 +8,7 @@ The project is actively maintained, with ongoing enhancements and support.
 ## 🚀 Tech Stack
 
 - **Framework:** Next.js
-- **Language:** TypeScript
+- **Language:** Javascript
 - **Frontend:** React, modern component-based architecture
 - **Backend Integration:** API integration for contact/query handling
 - **Deployment:** IIS Server
@@ -18,7 +18,7 @@ The project is actively maintained, with ongoing enhancements and support.
 ## ✨ Features
 
 - Responsive and modern fintech website UI
-- Built using **Next.js + TypeScript** for scalability and performance
+- Built using **Next.js + JavaScript** for scalability and performance
 - **Contact Form with API Integration**
   - Users can submit queries
   - Queries are sent to the client via backend API
