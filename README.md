@@ -59,3 +59,19 @@ This project is under **continuous maintenance**, including:
 ```bash
 npm install
 npm run dev
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/73188d35-1a25-491c-b086-0193888e9e13" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/285ab1bd-cddf-4669-baed-9df9124c2741" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/070e9911-a831-46de-9aa5-8da253b7f621" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fa2b7126-aa79-4fdf-b663-8278c56ab905" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94047629-4cd3-4914-90f8-84754f94486c" />
+
+
+
+
+
